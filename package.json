@@ -1,0 +1,12 @@
+{
+  "name": "etec_buddyboss_child_theme",
+  "version": "0.1.0",
+  "main": "Gruntfile.js",
+  "author": "TheWebist",
+  "devDependencies": {
+    "grunt": "^1.2.1",
+    "grunt-po2mo": "^0.1.2",
+    "grunt-wp-i18n": "^1.0.3",
+    "grunt-wp-readme-to-markdown": "~1.0.0"
+  }
+}

@@ -3,7 +3,7 @@
 **Requires at least:** 5.0  
 **Tested up to:** 5.7  
 **Requires PHP:** 7.3  
-**Stable tag:** 1.0.0  
+**Stable tag:** 1.0.1  
 **Version:** 1.0.0  
 **License:** GPLv2 or later  
 **License URI:** http://www.gnu.org/licenses/gpl-2.0.html  
@@ -14,6 +14,10 @@ Upgrade tolerant child theme of the Buddyboss Theme.
 Built for the East Tennessee Economic Council.
 
 ## Changelog ##
+
+### 1.0.1 ###
+* Updating NPM packages.
+* Compiling markdown readme.
 
 ### 1.0.0 ###
 * Initial release

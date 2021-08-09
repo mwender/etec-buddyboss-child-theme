@@ -58,5 +58,6 @@ add_action( 'wp_enqueue_scripts', 'buddyboss_theme_child_scripts_styles', 9999 )
 /****************************** CUSTOM FUNCTIONS ******************************/
 
 // Add your own custom functions here
+require_once( 'lib/fns/gravityforms.php' );
 require_once( 'lib/fns/woocommerce.php' );
 ?>

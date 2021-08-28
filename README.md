@@ -3,8 +3,8 @@
 **Requires at least:** 5.0  
 **Tested up to:** 5.7  
 **Requires PHP:** 7.3  
-**Stable tag:** 1.1.1  
-**Version:** 1.1.1  
+**Stable tag:** 1.1.2  
+**Version:** 1.1.2  
 **License:** GPLv2 or later  
 **License URI:** http://www.gnu.org/licenses/gpl-2.0.html  
 
@@ -14,6 +14,10 @@ Upgrade tolerant child theme of the Buddyboss Theme.
 Built for the East Tennessee Economic Council.
 
 ## Changelog ##
+
+### 1.1.2 ###
+* Removing GravityForms feed processing for child forms in favor of adding this code to our plugin.
+* Removing Elementor section we added to `woocommerce_memberships_thank_you_message` in favor of adding this to our plugin.
 
 ### 1.1.1 ###
 * Adding `add_filter( 'gpnf_enable_feed_processing_setting', '__return_true' );` to enable option to process child forms on submit when using GravityPerks Nested Forms.
